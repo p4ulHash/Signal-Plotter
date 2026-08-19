@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+out/
+*.iml
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# macOS
+.DS_Storee
